@@ -1,2 +1,2 @@
-# hbpp
-HalideBenchmark++: better benchmarking for the Halide language (https://github.com/halide/Halide)
+# HalideBenchmark++
+## Better benchmarking for the [Halide language](https://github.com/halide/Halide)
